@@ -1,0 +1,10 @@
+/* Responsive Breakpoints */
+/* Width-992 */
+@media screen and (max-width: 992px) {
+    #nav-menu {
+        display: none;
+    }
+    #ham-menu {
+        display: inline-block;
+    }
+}
